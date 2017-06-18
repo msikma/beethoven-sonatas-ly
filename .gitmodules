@@ -1,0 +1,8 @@
+[submodule "n29-op106"]
+	path = n29-op106
+	url = https://github.com/msikma/beethoven-op106-ly
+	ignore = dirty
+[submodule "n32-op111"]
+	path = n32-op111
+	url = https://github.com/msikma/beethoven-op111-ly
+	ignore = dirty
